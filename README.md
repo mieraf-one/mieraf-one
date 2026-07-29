@@ -18,7 +18,7 @@
 
 | | |
 |---|---|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript) ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python) ) |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript) ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python)  |
 | **Frontend** | ![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=flat-square&logo=next.js) ![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6) ![Flutter](https://img.shields.io/badge/-Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=node.js) ![Fast API](https://img.shields.io/badge/-Fast%20API-0d1117?style=flat-square&logo=fastapi) |
 | **Mobile** | ![Flutter](https://img.shields.io/badge/-Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B) ![Dart](https://img.shields.io/badge/-Dart-0d1117?style=flat-square&logo=dart&logoColor=0175C2) ![REST API](https://img.shields.io/badge/-REST_API-0d1117?style=flat-square&logo=fastapi) |
